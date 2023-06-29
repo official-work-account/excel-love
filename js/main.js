@@ -27,7 +27,7 @@
     $(".client-carousel").owlCarousel({
       autoplay: true,
       loop: true,
-      margin: 10,
+      margin: 25,
       nav: false,
       dots: false,
       responsive: {
