@@ -32,7 +32,7 @@
       dots: false,
       responsive: {
         0: {
-          items: 1.5,
+          items: 1.25,
         },
         600: {
           items: 3,
